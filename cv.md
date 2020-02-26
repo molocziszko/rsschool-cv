@@ -26,3 +26,9 @@ public class Example {
     }
 }
 ```
+## Education
+* PSU, Law FAculty, in 2014
+* EPAM course "Introduction to Java", in 2019
+
+## English level
+B1
