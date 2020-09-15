@@ -1,3 +1,7 @@
+html {
+    font-size: 20px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -5,5 +9,16 @@ body {
 
 .main-container {
     display: inline-block;
+    max-width: 1024px;
+    width: 90%;
     
+}
+
+.name-title, .pic {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 4rem;
 }
