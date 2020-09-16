@@ -1,7 +1,7 @@
 # Uladzimir Hanin
 ___
 ## Contact information
-* E-mail:         info91@gmail.com
+* E-mail:         vovvich91@gmail.com
 * Mobile tel.:    +375298526140
 
 ## Summary
