@@ -38,12 +38,14 @@ header {
 
 h1 {
     font-size: 4rem;
+    line-height: 0;
 }
 
 .contact-info {
     white-space: pre-line;
     font-size: 1.1rem;
     margin: 0;
+    line-height: 1.3rem;
 }
 
 .contact-info img {
@@ -116,11 +118,6 @@ ol {
     word-break: break-word;
 }
 
-code {
-    font-family: 'Playfair Display', serif;
-    
-}
-
 .token.keyword {
     color: rgb(197, 165, 197);
 }
@@ -149,5 +146,59 @@ code {
     color: #c77620;
 }
 
+.date {
+    display: block;
+    font-size: 0.9rem;
+}
 
+.page-footer {
+    margin-top: 3rem;
+    padding: 0;
+    background-color: #3b1b13;
+}
 
+.footer-contact {
+    text-align: center;
+    padding: 1.5rem auto;
+
+}
+
+.letter {
+    display: inline-block;
+    position: relative;
+    border: 2px solid #c7b439;
+    border-radius: 1.5rem;
+    height: 2.5rem;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    margin: 1.5rem;
+    line-height: 2.5;
+    color: white;
+    text-decoration: none;
+}
+
+.mobile-footer {
+    display: inline-block;
+    position: relative;
+    color: white;
+}
+
+.github-link-footer {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    border: 2px solid #c7b439;
+    border-radius: 2.5rem;
+    height: 2.5rem;
+    width: 2.5rem;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    margin: 1.5rem;
+    line-height: 2.5;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.github-link-footer img {
+    width: 2.5rem;
+    height: 2.5rem;
+}
