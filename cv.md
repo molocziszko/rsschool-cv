@@ -1,22 +1,27 @@
 # Uladzimir Hanin
 ___
 ## Contact information
-* E-mail:         vovvich91@gmail.com
+* E-mail:         v.ganin15@yandex.ru
 * Mobile tel.:    +375298526140
 
 ## Summary
-<p> My main goal is to become software engeneer. My interests include mobile development (Android) and web development (Front-end). The key to me is the depth of my knowledge of these technologies. I'm also interested in robotics and IoT.
+<p> 
+    My main goal is to become a software engeneer. <br>
+    My interests include mobile development (Android) and backend development. <br>
+    The key to me is the depth of my knowledge of these technologies. <br>
+    I'm also interested in robotics and IoT.
 </p>
 
 ## Skills
 * Programming languages:
     * Java
+    * Kotlin
     * JavaScript
 * Git
-* Log4j2
-* JUnit
-* HTML
-* CSS
+* HTTP, OkHTTP, Volley
+* SQLite, Room
+* MVVM, SOLID
+* HTML, CSS
 
 ## Code examples
 ```Java
